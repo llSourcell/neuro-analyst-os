@@ -1,0 +1,22 @@
+# Core dependencies for neuro-analyst-os
+# Data processing and analysis
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# EEG/Neuroscience specific libraries
+mne>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Development and testing
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
